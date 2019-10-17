@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notepresintation", "ang\notepresintation.csproj", "{3C80964A-44AD-4DE7-B814-AED3E331B818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noteLogic", "noteLogic\noteLogic.csproj", "{452688E3-49E8-470B-A034-EFB0491724AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noteData", "noteData\noteData.csproj", "{616AED9E-475B-4AC7-94C2-92068BE7A4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C80964A-44AD-4DE7-B814-AED3E331B818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C80964A-44AD-4DE7-B814-AED3E331B818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C80964A-44AD-4DE7-B814-AED3E331B818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C80964A-44AD-4DE7-B814-AED3E331B818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452688E3-49E8-470B-A034-EFB0491724AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452688E3-49E8-470B-A034-EFB0491724AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452688E3-49E8-470B-A034-EFB0491724AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452688E3-49E8-470B-A034-EFB0491724AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616AED9E-475B-4AC7-94C2-92068BE7A4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616AED9E-475B-4AC7-94C2-92068BE7A4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616AED9E-475B-4AC7-94C2-92068BE7A4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616AED9E-475B-4AC7-94C2-92068BE7A4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D10513-6C05-4429-AE34-1D2F760F13EE}
+	EndGlobalSection
+EndGlobal
